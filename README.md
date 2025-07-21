@@ -1,3 +1,2 @@
 # bookbot
-My first python/ CLI / WSL project
-BookBot is my first project!
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
